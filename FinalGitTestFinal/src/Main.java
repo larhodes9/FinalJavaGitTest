@@ -5,6 +5,7 @@ public class Main {
 		System.out.println("What!");
 		System.out.println("Here are some new changes.");
 		// For some reason I am adding changes from GitHub.
+		System.out.println("Now I am testing.");
 	}
 
 }
